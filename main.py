@@ -1,7 +1,3 @@
-import cv2
-import numpy as np
-import pytesseract
-
 try:
     from playsound import playsound
     sound_enabled = True
